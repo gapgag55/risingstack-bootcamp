@@ -95,7 +95,7 @@
 ### 1. Create a simple web application and make the test pass
 
   Tasks:
-  - [1] Create a `GET` endpoint `/hello` returning `Hello Node.js!` in the response body, use the middleware of the `koa-router` package
+  - [x] Create a `GET` endpoint `/hello` returning `Hello Node.js!` in the response body, use the middleware of the `koa-router` package
   - [ ] Use the `PORT` environment variable to set the port, **make it required**
   - [ ] Make the tests pass (`npm run test-web`)
   - [ ] Run the application (eg. `PORT=3000 npm start` and try if it breaks when `PORT` is not provided)
